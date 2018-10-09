@@ -214,6 +214,8 @@ public class LuceneDemo {
         TermQuery termQuery = new TermQuery(new Term("fileName", "传智播客"));
         d(termQuery);
         System.out.println("xiao脾气");
+        // System.out.println("xiao脾气");
+        System.out.println("hhh");
     }
 
 }
